@@ -44,14 +44,14 @@ cd ../web
 npm install
 npm start
 
-🌐 Acesse online
+🌐 Link de acesso
 
 🔗 Deploy Vercel
 
 
 ---
 
-👤 Desenvolvido por
+👤 Autor
 
 Johnatan Quenes
-LinkedIn | GitHub
+LinkedIn | Portfólio
