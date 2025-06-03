@@ -2,7 +2,7 @@
 
 ## 🟩 2. `Proffy` – Plataforma Educacional
 
-```markdown
+
 # 🎓 Proffy - Plataforma de Aulas Online
 
 O **Proffy** é uma plataforma educacional que conecta professores e alunos, permitindo o agendamento de aulas de forma prática. Criado durante a NLW (Next Level Week) da Rocketseat.
